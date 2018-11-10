@@ -6,4 +6,4 @@ https://www.jianshu.com/p/db72e44abe0a
 
 # Demo效果
 ![demo1](https://github.com/WangXianSong/TabLayoutDemo/blob/master/demo1.jpg?raw=true)
-
+![demo2](https://github.com/WangXianSong/TabLayoutDemo/blob/master/Demo2.gif?raw=true)
