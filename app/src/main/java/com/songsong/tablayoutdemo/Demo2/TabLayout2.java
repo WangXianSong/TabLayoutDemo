@@ -93,7 +93,7 @@ public class TabLayout2 extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.toolbar, menu);
+        getMenuInflater().inflate(R.menu.toolbar_menu, menu);
         return true;
     }
 }
